@@ -17,7 +17,7 @@ function findMinimumNumber() {
 result = findMinimumNumber(20, 8, 5775, 6, 33);
 console.log('Minimum Number using normal function is ' + result); // Output is 6
 
-function findManimumNumber() {
+function findMaximumNumber() {
     var i;
     var max = -Infinity;
     for (i = 0; i < arguments.length; i++) {
@@ -28,7 +28,7 @@ function findManimumNumber() {
     return max;
 }
 
-result = findManimumNumber(20, 8, 5775, 6, 33);
+result = findMaximumNumber(20, 8, 5775, 6, 33);
 console.log('Maximum Number using normal function is ' + result); // Output is 5775
 
 
