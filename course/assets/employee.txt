@@ -1,0 +1,6 @@
+﻿Bala	C#	5
+Bala	Python	2
+Bala	Java	3
+Ram	C#	3
+Ram	Python	2
+Ram	Java	1
